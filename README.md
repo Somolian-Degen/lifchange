@@ -1,2 +1,6 @@
 # lifchange
-turning my life aorund by buidling
+pr welcome
+##dapp overview
+fittness, wealth, and education dapp.  you can track your progress in each catagory and mint a token daily that shows your completion of each thing
+
+
